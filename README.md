@@ -17,15 +17,4 @@ React - For building a component-based user interface
 React Hooks (useState) - For managing the application state
 CSS - For styling the user interface
 
-far-away-packing-list/
-│-- src/
-│ │-- components/ # Component files (Logo, Form, PackingList, Item, Stats)
-│ │-- App.js # Main application component
-│ │-- index.js # Entry point of the app
-│ │-- index.css # CSS styles
-│-- public/
-│-- package.json # Project dependencies and configurations
-│-- README.md # Project documentation
-│-- .gitignore # Git ignore file
-
-![Far Away Packing List](assets/ss.png)
+![Far Away Packing List](src/assets/ss.png)
