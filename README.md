@@ -17,4 +17,4 @@ React - For building a component-based user interface
 React Hooks (useState) - For managing the application state
 CSS - For styling the user interface
 
-![Far Away Packing List](src/assets/ss.png)
+![Screenshot](src/assets/ss.png)
